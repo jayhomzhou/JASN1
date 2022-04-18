@@ -6,7 +6,7 @@
 //  Copyright © 2018 Leif Ibsen. All rights reserved.
 //
 
-import BigInt
+import JBigInt
 
 /// ASN1 ObjectIdentifier class
 public class ASN1ObjectIdentifier: ASN1SimpleType, CustomStringConvertible, Hashable {

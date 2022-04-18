@@ -6,7 +6,7 @@
 //  Copyright © 2018 Leif Ibsen. All rights reserved.
 //
 
-import BigInt
+import JBigInt
 
 /// ASN1 Integer class
 public class ASN1Integer: ASN1, CustomStringConvertible {

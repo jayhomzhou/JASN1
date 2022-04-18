@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import BigInt
+import JBigInt
 
 /// Unsigned 8 bit value
 public typealias Byte = UInt8
