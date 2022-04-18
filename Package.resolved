@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JBigInt",
+        "repositoryURL": "https://github.com/jayhomzhou/JBigInt",
+        "state": {
+          "branch": null,
+          "revision": "e8b1f5587ec124a9159b85c3c0d8850293d55083",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
