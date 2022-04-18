@@ -21,8 +21,8 @@ let package = Package(
         .target(
             name: "ASN1",
             dependencies: ["JBigInt"]),
-        .testTarget(
-            name: "ASN1Tests",
-            dependencies: ["ASN1"]),
+//        .testTarget(
+//            name: "ASN1Tests",
+//            dependencies: ["ASN1"]),
     ]
 )
